@@ -1,6 +1,8 @@
 # React - Tabs Mini Project
 
-Simple tabs project I saw at @johnsmilga 's youtube channel. It uses a fake databse and we map the content from the json.
+Simple tabs project I saw at @johnsmilga 's youtube channel. It uses a API to simulate the database and we map the content from the json.
+
+API Link: https://course-api.com/react-tabs-project
 
 # Technologies used
 
